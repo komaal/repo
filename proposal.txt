@@ -1,0 +1,21 @@
+FINAL PROJECT PROPOSAL 
+ 
+INTRODUCTION: 
+We propose to implement a project for “Hotel Management System”. During 
+summer tourists from all over the world are attracted by fascinating northern areas 
+of Pakistan. We intend to implement a website to enable online reservation 
+services of our hotel. 
+FEATURES: 
+Our website provides following features: 
+For admin: 
+ Login 
+ edit and update room status 
+ generate form 
+For user: 
+ Register user 
+ Login 
+ Check availability for room 
+ Reserve room 
+ Add personal contact details 
+ Edit reservation 
+ Delete reservation
